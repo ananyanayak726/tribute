@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <style>
+ 
+        /* Styling the body element
+        like body color and margin */
+         
+        body {
+            background-color: #00faed5d;
+            margin: 20%;
+        }
+ 
+        /* Styling the Title and giving
+        shadow to the title */
+        #title {
+            text-align: center;
+            text-shadow: 5px 5px 10px rgb(255, 255, 255);
+            font-size: 7vh;
+        }
+ 
+        /* Setting width and display
+        type of image */
+        img {
+            display: inline-block;
+            width: 100%;
+        }
+ 
+        /* Setting font color and font
+        size of the image-caption */
+        #caption {
+            font-size: 17px;
+            font-family: Gill Sans;
+            color: black;
+        }
+ 
+        /* Styling the content of the page like-
+        padding, font-size, font color etc.*/
+        div#tribute-data {
+            background-color: rgb(46, 139, 87, 0.25);
+            box-shadow: 20px 20px 20px #98FB98;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+ 
+        /* Styling the title of the content */
+        h1.title-APJ {
+            font-size: 35px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.521);
+        }
+ 
+        /* Styling the link provided at the end */
+        #tribute-link {
+            text-decoration: none;
+            color: rgba(0, 0, 0, 0.249);
+        }
+    </style>
+</head>
+ 
+<body>
+    <main id="main">
+ 
+        <!-- Title of the page -->
+        <h1 id="title">
+            Princess Diana
+        </h1>
+ 
+        <div id="img">
+ 
+            <!--Image of the Tribute Person-->
+            <img src="https://media.cnn.com/api/v1/images/stellar/prod/210630020752-01-princess-diana-life-in-pictures.jpg?q=w_1600,h_1145,x_0,y_0,c_fill" width="100" height="500" id="image"/>
+>
+            <small id="caption">
+                Princess of Wales.
+                Was a member of the British royal family.
+                Her activism and glamour made her an 
+                international icon, and earned her enduring popularity.
+
+            </small>
+        </div>
+ 
+        <div id="tribute-data">
+ 
+            <!--Achievements and other
+                details of the person-->
+            <h1 class="Diana">
+                About the Legend
+            </h1>
+ 
+             
+ 
+<p>
+                ☛ Diana, Princess of Wales (born Diana Frances Spencer; 1 July 1961 – 31 August 1997) was a member of the British royal family.<br><br>
+                ☛ Diana, Princess of Wales (born Diana Frances Spencer; 1 July 1961 – 31 August 1997) was a member of the British royal family.<br><br>
+                ☛ She had two sons, William and Harry, who were then respectively second and third in the line of succession to the British throne. 
+                <br><br> ☛ As Princess of Wales, Diana undertook royal duties on behalf of Elizabeth II and represented her at functions across the Commonwealth realms.  
+                <br><br> ☛ She also raised awareness and advocated for ways to help people affected by cancer and mental illness. Diana was initially noted for her shyness, but her charisma and friendliness endeared her to the public and helped her reputation survive the acrimonious collapse of her marriage. Considered photogenic, she was a leader of fashion in the 1980s and 1990s.
+                <br><br> ☛ On 30 August 1961, Diana was baptised at St. Mary Magdalene Church, Sandringham. She grew up with three siblings: Sarah, Jane, and Charles. Her infant brother, John, died shortly after his birth one year before Diana was born. 
+                <br><br> ☛ She became known as Lady Diana after her father later inherited the title of Earl Spencer in 1975, at which point her father moved the entire family from Park House to Althorp, the Spencer seat in Northamptonshire.
+                <br><br> ☛ In 1978, Diana worked for three months as a nanny for Philippa and Jeremy Whitaker in Hampshire. After attending Institut Alpin Videmanette (a finishing school in Rougemont, Switzerland) for one term, and leaving after the Easter term of 1978, Diana returned to London, where she shared her mother's flat with two school friends.
+                <br><br> ☛ Diana first met the Prince of Wales (later Charles III), Elizabeth II's eldest son and heir apparent, when she was 16 in November 1977. He was then 29 and dating her older sister, Sarah. Charles and Diana were guests at a country weekend during the summer of 1980 and he took a serious interest in her as a potential bride.
+                <br><br> ☛ Twenty-year-old Diana became the Princess of Wales when she married Charles on 29 July 1981. The wedding was held at St Paul's Cathedral, which offered more seating than Westminster Abbey, a church that was generally used for royal nuptials. The service was widely described as a "fairytale wedding" and was watched by a global television
+                 audience of 750 million people while 600,000 spectators lined the streets to catch a glimpse of the couple en route to the ceremony. At the altar, Diana inadvertently reversed the order of his first two names, saying "Philip Charles" Arthur George instead. She did not say she would "obey" him; that traditional vow was left out at the couple's request
+                 , which caused some comment at the time.
+                <br><br> ☛ Twenty-year-old Diana became the Princess of Wales when she married Charles on 29 July 1981. The wedding was held at St Paul's Cathedral, which offered more seating than Westminster Abbey, a church that was generally used for royal nuptials. The service was widely described as a "fairytale wedding" and was watched by a global television 
+                audience of 750 million people while 600,000 spectators lined the streets to catch a glimpse of the couple en route to the ceremony. At the altar, Diana inadvertently reversed the order of his first two names, saying "Philip Charles" Arthur George instead. She did not say she would "obey" him; that traditional vow was left out at the couple's request, 
+                which caused some comment at the time.
+                <br><br> ☛ In 1983, she confided to the Premier of Newfoundland, Brian Peckford, "I am finding it very difficult to cope with the pressures of being Princess of Wales, but I am learning to cope with it." She was expected to make regular public appearances at hospitals, schools, and other facilities, in the 20th-century model of royal patronage.
+                <br><br> ☛ She was the patroness of charities and organisations who worked with the homeless, youth, drug addicts, and the elderly. From 1989, she was president of Great Ormond Street Hospital for Children. She was patron of the Natural History Museum and president of the Royal Academy of Music.
+                <br><br> ☛ In 1987, Diana was awarded the Honorary Freedom of the City of London, the highest honour which is in the power of the City of London to bestow on someone. In June 1995, she travelled to Moscow. She paid a visit to a children's hospital she had previously supported when she provided them with medical equipment. In December 1995, 
+                Diana received the United Cerebral Palsy Humanitarian of the Year Award in New York City for her philanthropic efforts.
+                <br><br> ☛ In May 1997, Diana opened the Richard Attenborough Centre for Disability and the Arts in Leicester, after being asked by her friend Richard Attenborough. In June 1997 and at the suggestion of her son William, some of her dresses and suits were sold at Christie's auction houses in London and New York, and the proceeds that 
+                were earned from these events were donated to charities.
+                <br> <br>☛On 31 August 1997, Diana died in a car crash in the Pont de l'Alma tunnel in Paris while the driver was fleeing the paparazzi. The crash also resulted in the deaths of her companion Dodi Fayed and the driver, Henri Paul, who was the acting security manager of the Hôtel Ritz Paris.The televised funeral, on 6 September, was 
+                watched by a British television audience that peaked at 32.10 million, which was one of the United Kingdom's highest viewing figures ever. Millions more watched the event around the world.
+                <br><br>☛The sudden and unexpected death of an extraordinarily popular royal figure brought statements from senior figures worldwide and many tributes by members of the public. People left flowers, candles, cards, and personal messages outside Kensington Palace for many months. Her coffin, draped with the royal flag, 
+                was brought to London from Paris by Prince Charles and Diana's two sisters on 31 August 1997.
+                <br><br>☛The initial French judicial investigation concluded that the crash was caused by Paul's intoxication, reckless driving, speeding, and effects of prescription drugs. In February 1998, Mohamed Al-Fayed, father of Dodi Fayed, publicly said the crash, which killed his son, had been planned, and accused MI6 and the Duke of Edinburgh.
+                <br><br>☛Diana remains one of the most popular members of the royal family throughout history, and she continues to influence the younger generations of royals.
+                <br><br>☛In the early years, Diana was often noted for her shy nature. Journalist Michael White perceived her as being "smart", "shrewd and funny". Those who communicated with her closely describe her as a person who was led by "her heart".
+                <br><br>☛Immediately after her death, many sites around the world became briefly ad hoc memorials to Diana where the public left flowers and other tributes. Her son, Prince William, has stated that the outpouring of public grief after her death "changed the British psyche, for the better", while journalist Alastair Campbell noted that it assisted in 
+                diminishing "the stiff upper lip approach".
+
+                
+    
+                <br><br><br>
+            </p>
+ 
+ 
+        </div>
+        <br>
+            For more information,
+        check out
+        <a id="tribute-link" href="https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales">
+            <b>Pricess Diana</b> on Wikipedia. [
+            <small>Developed by @<a href="#">
+                    Ananya Nayak</a></a>
+        </small>]
+    </main>
+</body>
+ 
+</html>
